@@ -1,0 +1,60 @@
+<style>
+/*避免点击webview时，背景变灰闪烁*/
+* {outline: 0px solid transparent; -webkit-tap-highlight-color: rgba(0,0,0,0);-webkit-touch-callout: none; }
+body
+{
+    background-image: url(bg.png);
+    margin:0 auto;
+    max-width:900px;
+    color:clear;/*#000000*/
+}
+.content
+{
+    margin:0px 0;
+    min-height:430px;
+    overflow-x:hidden;
+}
+div
+{
+    font-size:16px;
+    line-height:18px;
+    margin:5px 0;
+}
+img{
+    max-width:900px;
+    width:100%;
+}
+</style>
+
+<script>
+//插入来自Swift的图片
+function insertImage(imagePath)
+{
+    var selection = window.getSelection ? window.getSelection() : document.selection;
+    var range = selection.createRange ? selection.createRange() : selection.getRangeAt(0);
+    
+    var div = document.createElement("div");
+    div.style.position = "relative";
+    var insertingImage = "<img src='"+imagePath+"' onerror=\"this.src='defaultErrorPic.png'\"/>"
+    var deleteIcon = "<img src='deleteImage.png' style='width:30px;height:30px;margin-top:9px;position:absolute;z-index:10;right:5px' contenteditable='false' onclick='removeImage(this)'/>"
+    div.innerHTML = deleteIcon+insertingImage;
+    range.insertNode(div);
+    selection.modify("move", "right", "word")
+}
+
+//删除图片
+function removeImage(obj,e)
+{
+    obj.parentNode.parentNode.removeChild(obj.parentNode);
+    document.getElementById("content").blur();
+}
+
+//获得笔记内容
+function getNote()
+{
+    return document.getElementById("content").innerHTML;
+}
+
+</script>
+
+<div class="content" contenteditable="true" id="content"></div>

@@ -1,0 +1,165 @@
+
+/* Class = "UILabel"; text = "设置"; ObjectID = "1Ju-xP-U0h"; */
+"1Ju-xP-U0h.text" = "设置";
+
+/* Class = "UILabel"; text = "B、类接受了多个协议，这些协议写在父类后面的<>内，多个协议之间用“.”隔开"; ObjectID = "25K-Pb-STO"; */
+"25K-Pb-STO.text" = "B、类接受了多个协议，这些协议写在父类后面的<>内，多个协议之间用“.”隔开";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "2Cr-gU-UlW"; */
+"2Cr-gU-UlW.text" = "Title";
+
+/* Class = "UITabBarItem"; title = "错题集"; ObjectID = "3zE-0g-Y8p"; */
+"3zE-0g-Y8p.title" = "错题集";
+
+/* Class = "UILabel"; text = "A、类接受了多个协议，这些协议写在父类后面的<>内，多个协议之间用“.”隔开"; ObjectID = "53m-Yy-HVs"; */
+"53m-Yy-HVs.text" = "A、类接受了多个协议，这些协议写在父类后面的<>内，多个协议之间用“.”隔开";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "5vq-9P-c7W"; */
+"5vq-9P-c7W.text" = "100";
+
+/* Class = "UILabel"; text = "答题次数"; ObjectID = "6HP-LB-iUj"; */
+"6HP-LB-iUj.text" = "答题次数";
+
+/* Class = "UILabel"; text = "互动教程 for Xcode9"; ObjectID = "6LE-KX-n2n"; */
+"6LE-KX-n2n.text" = "互动教程 for Xcode9";
+
+/* Class = "UILabel"; text = "上一题"; ObjectID = "8TV-hN-geX"; */
+"8TV-hN-geX.text" = "上一题";
+
+/* Class = "UILabel"; text = "A、类接受了多个协议，这些协议写在父类后面的<>内，多个协议之间用“.”隔开"; ObjectID = "9LO-14-t5N"; */
+"9LO-14-t5N.text" = "A、类接受了多个协议，这些协议写在父类后面的<>内，多个协议之间用“.”隔开";
+
+/* Class = "UILabel"; text = "面试题 [1/400]"; ObjectID = "AOe-1s-kHc"; */
+"AOe-1s-kHc.text" = "面试题 [1/400]";
+
+/* Class = "UILabel"; text = "D、类接受了多个协议，这些协议写在父类后面的<>内，多个协议之间用“.”隔开"; ObjectID = "AQQ-5h-t5i"; */
+"AQQ-5h-t5i.text" = "D、类接受了多个协议，这些协议写在父类后面的<>内，多个协议之间用“.”隔开";
+
+/* Class = "UIButton"; disabledTitle = "下一题"; ObjectID = "AzN-01-YS6"; */
+"AzN-01-YS6.disabledTitle" = "下一题";
+
+/* Class = "UIButton"; normalTitle = "下一题"; ObjectID = "AzN-01-YS6"; */
+"AzN-01-YS6.normalTitle" = "下一题";
+
+/* Class = "UILabel"; text = "C、类接受了多个协议，这些协议写在父类后面的<>内，多个协议之间用“.”隔开"; ObjectID = "BCf-sL-0i5"; */
+"BCf-sL-0i5.text" = "C、类接受了多个协议，这些协议写在父类后面的<>内，多个协议之间用“.”隔开";
+
+/* Class = "UILabel"; text = "随机题 [1/10]"; ObjectID = "CQi-mq-TVg"; */
+"CQi-mq-TVg.text" = "随机题 [1/10]";
+
+/* Class = "UILabel"; text = "下一题"; ObjectID = "ERs-LY-Dlg"; */
+"ERs-LY-Dlg.text" = "下一题";
+
+/* Class = "UILabel"; text = "错题集 [0/0]"; ObjectID = "EvK-g4-BEZ"; */
+"EvK-g4-BEZ.text" = "错题集 [0/0]";
+
+/* Class = "UILabel"; text = "C、类接受了多个协议，这些协议写在父类后面的<>内，多个协议之间用“.”隔开"; ObjectID = "HRF-sB-Rds"; */
+"HRF-sB-Rds.text" = "C、类接受了多个协议，这些协议写在父类后面的<>内，多个协议之间用“.”隔开";
+
+/* Class = "UIButton"; normalTitle = "获取所有答案并清除广告"; ObjectID = "Ikf-my-SFy"; */
+"Ikf-my-SFy.normalTitle" = "获取所有答案并清除广告";
+
+/* Class = "UITabBarItem"; title = "随机题"; ObjectID = "J6B-oa-tXL"; */
+"J6B-oa-tXL.title" = "随机题";
+
+/* Class = "UILabel"; text = "下面各数据类型中，能够直接放进NSArray数组的有，能够直接放进NSArray数组的有，能够直接放进NSArray数组的有："; ObjectID = "KfA-ZF-u3T"; */
+"KfA-ZF-u3T.text" = "下面各数据类型中，能够直接放进NSArray数组的有，能够直接放进NSArray数组的有，能够直接放进NSArray数组的有：";
+
+/* Class = "UILabel"; text = "D、类接受了多个协议，这些协议写在父类后面的<>内，多个协议之间用“.”隔开"; ObjectID = "MKj-IM-NBu"; */
+"MKj-IM-NBu.text" = "D、类接受了多个协议，这些协议写在父类后面的<>内，多个协议之间用“.”隔开";
+
+/* Class = "UIButton"; disabledTitle = "下一题"; ObjectID = "N55-83-nqS"; */
+"N55-83-nqS.disabledTitle" = "下一题";
+
+/* Class = "UIButton"; normalTitle = "下一题"; ObjectID = "N55-83-nqS"; */
+"N55-83-nqS.normalTitle" = "下一题";
+
+/* Class = "UILabel"; text = "错误：0"; ObjectID = "NQ6-Z6-v8P"; */
+"NQ6-Z6-v8P.text" = "错误：0";
+
+/* Class = "UILabel"; text = "下面各数据类型中，能够直接放进NSArray数组的有，能够直接放进NSArray数组的有，能够直接放进NSArray数组的有："; ObjectID = "NfA-6N-Rx9"; */
+"NfA-6N-Rx9.text" = "下面各数据类型中，能够直接放进NSArray数组的有，能够直接放进NSArray数组的有，能够直接放进NSArray数组的有：";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "QdR-yv-Lry"; */
+"QdR-yv-Lry.text" = "20";
+
+/* Class = "UITabBarItem"; title = "笔试题"; ObjectID = "SPl-ez-Cjc"; */
+"SPl-ez-Cjc.title" = "笔试题";
+
+/* Class = "UILabel"; text = "80%"; ObjectID = "Va8-VC-wDD"; */
+"Va8-VC-wDD.text" = "80%";
+
+/* Class = "UILabel"; text = "平均正确率"; ObjectID = "Vbp-rP-VP3"; */
+"Vbp-rP-VP3.text" = "平均正确率";
+
+/* Class = "UILabel"; text = "下面各数据类型中，能够直接放进NSArray数组的有，能够直接放进NSArray数组的有，能够直接放进NSArray数组的有："; ObjectID = "WCZ-2M-fJ0"; */
+"WCZ-2M-fJ0.text" = "下面各数据类型中，能够直接放进NSArray数组的有，能够直接放进NSArray数组的有，能够直接放进NSArray数组的有：";
+
+/* Class = "UILabel"; text = "显示答案[100]"; ObjectID = "XUp-vV-EYF"; */
+"XUp-vV-EYF.text" = "显示答案[100]";
+
+/* Class = "UILabel"; text = "B、类接受了多个协议，这些协议写在父类后面的<>内，多个协议之间用“.”隔开"; ObjectID = "ZF1-jc-bCW"; */
+"ZF1-jc-bCW.text" = "B、类接受了多个协议，这些协议写在父类后面的<>内，多个协议之间用“.”隔开";
+
+/* Class = "UILabel"; text = "A、类接受了多个协议，这些协议写在父类后面的<>内，多个协议之间用“.”隔开"; ObjectID = "ZWY-2X-5z7"; */
+"ZWY-2X-5z7.text" = "A、类接受了多个协议，这些协议写在父类后面的<>内，多个协议之间用“.”隔开";
+
+/* Class = "UILabel"; text = "下面各数据类型中，能够直接放进NSArray数组的有，能够直接放进NSArray数组的有，能够直接放进NSArray数组的有："; ObjectID = "ZxW-RN-Rd9"; */
+"ZxW-RN-Rd9.text" = "下面各数据类型中，能够直接放进NSArray数组的有，能够直接放进NSArray数组的有，能够直接放进NSArray数组的有：";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "djd-81-gg6"; */
+"djd-81-gg6.text" = "100";
+
+/* Class = "UILabel"; text = "下一题"; ObjectID = "fFe-kw-OKb"; */
+"fFe-kw-OKb.text" = "下一题";
+
+/* Class = "UILabel"; text = "我们的互动教程，苹果商店免费下载哦："; ObjectID = "fbK-pf-ucn"; */
+"fbK-pf-ucn.text" = "我们的互动教程，苹果商店免费下载哦：";
+
+/* Class = "UITabBarItem"; title = "面试题"; ObjectID = "fgz-XF-RJg"; */
+"fgz-XF-RJg.title" = "面试题";
+
+/* Class = "UIButton"; normalTitle = "恢复历史内购项目"; ObjectID = "ftk-Z7-hDA"; */
+"ftk-Z7-hDA.normalTitle" = "恢复历史内购项目";
+
+/* Class = "UILabel"; text = "600题"; ObjectID = "gCV-1U-riv"; */
+"gCV-1U-riv.text" = "600题";
+
+/* Class = "UILabel"; text = "错误：0"; ObjectID = "hAC-Jh-e9L"; */
+"hAC-Jh-e9L.text" = "错误：0";
+
+/* Class = "UILabel"; text = "C、类接受了多个协议，这些协议写在父类后面的<>内，多个协议之间用“.”隔开"; ObjectID = "kgq-Yu-r39"; */
+"kgq-Yu-r39.text" = "C、类接受了多个协议，这些协议写在父类后面的<>内，多个协议之间用“.”隔开";
+
+/* Class = "UILabel"; text = "上一题"; ObjectID = "lfd-Pg-X2a"; */
+"lfd-Pg-X2a.text" = "上一题";
+
+/* Class = "UILabel"; text = "B、类接受了多个协议，这些协议写在父类后面的<>内，多个协议之间用“.”隔开"; ObjectID = "lnh-G1-T3N"; */
+"lnh-G1-T3N.text" = "B、类接受了多个协议，这些协议写在父类后面的<>内，多个协议之间用“.”隔开";
+
+/* Class = "UILabel"; text = "TOTAL"; ObjectID = "m0P-gg-I4N"; */
+"m0P-gg-I4N.text" = "TOTAL";
+
+/* Class = "UILabel"; text = "D、类接受了多个协议，这些协议写在父类后面的<>内，多个协议之间用“.”隔开"; ObjectID = "nP7-VH-2c2"; */
+"nP7-VH-2c2.text" = "D、类接受了多个协议，这些协议写在父类后面的<>内，多个协议之间用“.”隔开";
+
+/* Class = "UILabel"; text = "QuestionTitle"; ObjectID = "osp-ZD-ofa"; */
+"osp-ZD-ofa.text" = "QuestionTitle";
+
+/* Class = "UILabel"; text = "正确：0"; ObjectID = "pVB-RY-Jgf"; */
+"pVB-RY-Jgf.text" = "正确：0";
+
+/* Class = "UILabel"; text = "手把手学习iOS开发IDE软件"; ObjectID = "rXc-Bb-PV5"; */
+"rXc-Bb-PV5.text" = "手把手学习iOS开发IDE软件";
+
+/* Class = "UILabel"; text = "移除此题"; ObjectID = "uh6-7E-VcR"; */
+"uh6-7E-VcR.text" = "移除此题";
+
+/* Class = "UITabBarItem"; title = "我的"; ObjectID = "wzV-N2-Ybh"; */
+"wzV-N2-Ybh.title" = "我的";
+
+/* Class = "UILabel"; text = "显示答案[100]"; ObjectID = "z9z-rI-huN"; */
+"z9z-rI-huN.text" = "显示答案[100]";
+
+/* Class = "UILabel"; text = "正确：0"; ObjectID = "zYV-at-Maw"; */
+"zYV-at-Maw.text" = "正确：0";

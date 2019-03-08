@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>用户注册页面</title>
+    <script>
+        function submitForm(){
+            alert("提交表单。");
+        }
+    </script>
+</head>
+<body>
+	<form id="registerForm" action="form_action.php" onsubmit="submitForm()">
+	用户名：<input type="text" id="userName" name="userName"/><br/>
+	密  码：<input type="password" id="password" name="password"/><br/>
+	<input type="submit" value="提交"/>
+	</form>
+</body>
+</html>

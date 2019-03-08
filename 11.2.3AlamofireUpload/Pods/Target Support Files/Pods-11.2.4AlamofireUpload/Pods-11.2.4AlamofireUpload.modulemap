@@ -1,0 +1,6 @@
+framework module Pods_11_2_4AlamofireUpload {
+  umbrella header "Pods-11.2.4AlamofireUpload-umbrella.h"
+
+  export *
+  module * { export * }
+}

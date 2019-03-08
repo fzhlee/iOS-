@@ -1,0 +1,45 @@
+PODS:
+  - Alamofire (4.7.0)
+  - AlamofireObjectMapper (4.1.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 2.0)
+  - ChameleonFramework/Default (2.1.0)
+  - ChameleonFramework/Swift (2.1.0):
+    - ChameleonFramework/Default
+  - ObjectMapper (2.2.9)
+  - PKHUD (4.2.3)
+  - SwiftyStoreKit (0.11.0)
+  - Toaster (2.1.0)
+  - UICircularProgressRing (1.7.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - AlamofireObjectMapper (~> 4.0)
+  - ChameleonFramework/Swift (from `https://github.com/ViccAlexander/Chameleon.git`)
+  - PKHUD (~> 4.0)
+  - SwiftyStoreKit
+  - Toaster (~> 2.0)
+  - UICircularProgressRing
+
+EXTERNAL SOURCES:
+  ChameleonFramework:
+    :git: https://github.com/ViccAlexander/Chameleon.git
+
+CHECKOUT OPTIONS:
+  ChameleonFramework:
+    :commit: 6dd284bde21ea2e7f9fd89bc36f40df16e16369d
+    :git: https://github.com/ViccAlexander/Chameleon.git
+
+SPEC CHECKSUMS:
+  Alamofire: 907e0a98eb68cdb7f9d1f541a563d6ac5dc77b25
+  AlamofireObjectMapper: 435adc82f5b367679bd9e71c4974a54efd0b2521
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  ObjectMapper: 63cfe41bc6f8e7c8f44344c49901b8ae7de14c52
+  PKHUD: c7692163a09875cbf15827dc581df3c5cf7f1015
+  SwiftyStoreKit: c5cb38110cb01b55b9c5f25d7f69d0083650b2a4
+  Toaster: 8c3225dc465bef4aa57e147a288724576df8e439
+  UICircularProgressRing: 5aca63423d913dc967661370e94e2af0770dd9cd
+
+PODFILE CHECKSUM: 70436054109ff064a32b5e357081c16a4cc34941
+
+COCOAPODS: 1.3.1

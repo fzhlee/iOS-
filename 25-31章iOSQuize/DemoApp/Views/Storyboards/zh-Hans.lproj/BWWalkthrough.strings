@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "包含判断题、单选题和多选题三种题型。语法、常识、界面、操作、多线程等十个篇章。"; ObjectID = "1X1-8x-FyW"; */
+"1X1-8x-FyW.text" = "包含判断题、单选题和多选题三种题型。语法、常识、界面、操作、多线程等十个篇章。";
+
+/* Class = "UILabel"; text = "提高iOS开发的理论知识，并为您的面试保驾护航！"; ObjectID = "L9f-q4-kbY"; */
+"L9f-q4-kbY.text" = "提高iOS开发的理论知识，并为您的面试保驾护航！";
+
+/* Class = "UILabel"; text = "600道笔试题"; ObjectID = "TFB-pS-4tJ"; */
+"TFB-pS-4tJ.text" = "600道笔试题";
+
+/* Class = "UILabel"; text = "1000道试题彻底夯实您的iOS开发技能！"; ObjectID = "Ybr-cA-egt"; */
+"Ybr-cA-egt.text" = "1000道试题彻底夯实您的iOS开发技能！";
+
+/* Class = "UILabel"; text = "随机题"; ObjectID = "gya-F3-X9d"; */
+"gya-F3-X9d.text" = "随机题";
+
+/* Class = "UILabel"; text = "400道面试题"; ObjectID = "nTd-jd-WeU"; */
+"nTd-jd-WeU.text" = "400道面试题";
+
+/* Class = "UILabel"; text = "Custom pages"; ObjectID = "og4-9T-jTn"; */
+"og4-9T-jTn.text" = "Custom pages";
+
+/* Class = "UILabel"; text = "从600道笔试题中随机抽取题目，加强技能的训练。"; ObjectID = "ujm-F9-FbK"; */
+"ujm-F9-FbK.text" = "从600道笔试题中随机抽取题目，加强技能的训练。";

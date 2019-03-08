@@ -1,0 +1,13 @@
+platform :ios, ‘9.0’
+use_frameworks!
+
+target ‘DemoApp' do
+    source 'https://github.com/CocoaPods/Specs.git'
+    pod 'UICircularProgressRing'
+    pod 'Toaster', '~> 2.0'
+    pod 'SwiftyStoreKit'
+    pod 'PKHUD', '~> 4.0'
+    pod 'Alamofire', '~> 4.7'
+    pod 'AlamofireObjectMapper', '~> 4.0'
+    pod 'ChameleonFramework/Swift', :git => 'https://github.com/ViccAlexander/Chameleon.git'
+end

@@ -1,0 +1,308 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C4A48A9D1D36814B00F455C9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4A48A9C1D36814B00F455C9 /* AppDelegate.swift */; };
+		C4A48A9F1D36814B00F455C9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4A48A9E1D36814B00F455C9 /* ViewController.swift */; };
+		C4A48AA21D36814B00F455C9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4A48AA01D36814B00F455C9 /* Main.storyboard */; };
+		C4A48AA41D36814B00F455C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C4A48AA31D36814B00F455C9 /* Assets.xcassets */; };
+		C4A48AA71D36814B00F455C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4A48AA51D36814B00F455C9 /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		C4A48A991D36814B00F455C9 /* 9.2.1UIGestureRecognizer_LongPress.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 9.2.1UIGestureRecognizer_LongPress.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C4A48A9C1D36814B00F455C9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		C4A48A9E1D36814B00F455C9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C4A48AA11D36814B00F455C9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C4A48AA31D36814B00F455C9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C4A48AA61D36814B00F455C9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C4A48AA81D36814B00F455C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C4A48A961D36814B00F455C9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C4A48A901D36814B00F455C9 = {
+			isa = PBXGroup;
+			children = (
+				C4A48A9B1D36814B00F455C9 /* 9.2.1UIGestureRecognizer_LongPress */,
+				C4A48A9A1D36814B00F455C9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C4A48A9A1D36814B00F455C9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C4A48A991D36814B00F455C9 /* 9.2.1UIGestureRecognizer_LongPress.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C4A48A9B1D36814B00F455C9 /* 9.2.1UIGestureRecognizer_LongPress */ = {
+			isa = PBXGroup;
+			children = (
+				C4A48A9C1D36814B00F455C9 /* AppDelegate.swift */,
+				C4A48A9E1D36814B00F455C9 /* ViewController.swift */,
+				C4A48AA01D36814B00F455C9 /* Main.storyboard */,
+				C4A48AA31D36814B00F455C9 /* Assets.xcassets */,
+				C4A48AA51D36814B00F455C9 /* LaunchScreen.storyboard */,
+				C4A48AA81D36814B00F455C9 /* Info.plist */,
+			);
+			path = 9.2.1UIGestureRecognizer_LongPress;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C4A48A981D36814B00F455C9 /* 9.2.1UIGestureRecognizer_LongPress */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C4A48AAB1D36814B00F455C9 /* Build configuration list for PBXNativeTarget "9.2.1UIGestureRecognizer_LongPress" */;
+			buildPhases = (
+				C4A48A951D36814B00F455C9 /* Sources */,
+				C4A48A961D36814B00F455C9 /* Frameworks */,
+				C4A48A971D36814B00F455C9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = 9.2.1UIGestureRecognizer_LongPress;
+			productName = 9.2.1UIGestureRecognizer_LongPress;
+			productReference = C4A48A991D36814B00F455C9 /* 9.2.1UIGestureRecognizer_LongPress.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C4A48A911D36814B00F455C9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0800;
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = www.coolketang.com;
+				TargetAttributes = {
+					C4A48A981D36814B00F455C9 = {
+						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = N43JNYX84B;
+						DevelopmentTeamName = "Li Fazhan";
+						LastSwiftMigration = 0930;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = C4A48A941D36814B00F455C9 /* Build configuration list for PBXProject "9.2.1UIGestureRecognizer_LongPress" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C4A48A901D36814B00F455C9;
+			productRefGroup = C4A48A9A1D36814B00F455C9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C4A48A981D36814B00F455C9 /* 9.2.1UIGestureRecognizer_LongPress */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C4A48A971D36814B00F455C9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C4A48AA71D36814B00F455C9 /* LaunchScreen.storyboard in Resources */,
+				C4A48AA41D36814B00F455C9 /* Assets.xcassets in Resources */,
+				C4A48AA21D36814B00F455C9 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C4A48A951D36814B00F455C9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C4A48A9F1D36814B00F455C9 /* ViewController.swift in Sources */,
+				C4A48A9D1D36814B00F455C9 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		C4A48AA01D36814B00F455C9 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C4A48AA11D36814B00F455C9 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		C4A48AA51D36814B00F455C9 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C4A48AA61D36814B00F455C9 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C4A48AA91D36814B00F455C9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C4A48AAA1D36814B00F455C9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C4A48AAC1D36814B00F455C9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = 9.2.1UIGestureRecognizer_LongPress/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.tapinfinity.--2-1UIGestureRecognizer-LongPress";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		C4A48AAD1D36814B00F455C9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = 9.2.1UIGestureRecognizer_LongPress/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.tapinfinity.--2-1UIGestureRecognizer-LongPress";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C4A48A941D36814B00F455C9 /* Build configuration list for PBXProject "9.2.1UIGestureRecognizer_LongPress" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C4A48AA91D36814B00F455C9 /* Debug */,
+				C4A48AAA1D36814B00F455C9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C4A48AAB1D36814B00F455C9 /* Build configuration list for PBXNativeTarget "9.2.1UIGestureRecognizer_LongPress" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C4A48AAC1D36814B00F455C9 /* Debug */,
+				C4A48AAD1D36814B00F455C9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C4A48A911D36814B00F455C9 /* Project object */;
+}

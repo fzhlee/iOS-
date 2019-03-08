@@ -1,0 +1,6 @@
+framework module Pods_11_2_2AlamofireRequest {
+  umbrella header "Pods-11.2.2AlamofireRequest-umbrella.h"
+
+  export *
+  module * { export * }
+}
